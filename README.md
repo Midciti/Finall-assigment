@@ -4,7 +4,7 @@
 |All screenshots are named as per Assigment instructions|
 |*The Assigment I worked from is here in PDF format named "Final Assigment instructions.pdf"|
 
-PNG descriptions:
+PNG/Screenshot descriptions:
 1. 1-notebook.png:This is the screens shot for the 1st page of the Notebook as per exercise 13
 2. 2-title.png: H1 style heading of title as per Exercise 2
 3. 3-intro.png: text under heading Markdown cells :"Data science tools and ecosystems are summarized" ( as per Exercise 3)
